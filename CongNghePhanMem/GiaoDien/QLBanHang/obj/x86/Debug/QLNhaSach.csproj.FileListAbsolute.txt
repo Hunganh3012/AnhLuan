@@ -1,0 +1,99 @@
+F:\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.exe
+F:\QLNhaSach\QLNhaSach\bin\Debug\QLNhaSach.pdb
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmKhachHang.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLoaiSach.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLoaiVanPhongPham.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmMain.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhaCungCap.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhanVien.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmSach.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.frmVanPhongPham.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.Properties.Resources.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.csproj.GenerateResource.Cache
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.exe
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.pdb
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.csprojResolveAssemblyReference.cache
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkKhachHang.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkLoaiSach.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkLoaiVanPhongPham.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkNhaCungCap.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkNhanVien.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkSach.resources
+F:\QLNhaSach\QLNhaSach\obj\x86\Debug\QLNhaSach.TimKiem.TkVanPhongPham.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.csproj.GenerateResource.Cache
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.Main.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDonViTinh.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmKhachHang.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhanVien.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmMatHang.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmPhanQuyen.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDoiMatKhau.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDoiMatKhau.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhanVien.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.csproj.GenerateResource.Cache
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\SuperGridDemo.exe
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmChinh.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\RdlCompile.cache
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\RdlCompile.compiled
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDangNhap.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.XuatHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLapHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLapPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmBangChamCong.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmMatHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachMatHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachNhanVien.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmKhachHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachKhachHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.XuatPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDMPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\DoAn\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDoanhThu.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmBangChamCong.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDangNhap.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmChinh.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDMPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDoanhThu.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmKhachHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachKhachHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLapHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmLapPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmNhanVien.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.InDanhSachNhanVien.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.XuatHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.frmDoiMatKhau.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.XuatPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\QLNhaSach.csproj.GenerateResource.Cache
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\RdlCompile.cache
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\QLNhaSach\GiaoDien\QLNhaSach\obj\x86\Debug\RdlCompile.compiled

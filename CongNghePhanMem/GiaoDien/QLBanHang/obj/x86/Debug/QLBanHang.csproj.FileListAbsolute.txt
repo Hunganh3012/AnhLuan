@@ -1,0 +1,97 @@
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe.config
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\DEMO\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe.config
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDangNhap.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmChinh.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmKhachHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmNhanVien.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDoiMatKhau.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csproj.GenerateResource.Cache
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\RdlCompile.cache
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.pdb
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\bin\Debug\SuperGridDemo.exe
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmCapNhatGiaBan.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmNguoiDung.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmPhanQuyenNguoiDung.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.UCTroGiup.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachKhachHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachLoaiMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachMatHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachNhaCungCap.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachNhanVien.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmPhieuGiaoHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDanhMucHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLapPhieuGiaoHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInThongKeTonKho.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDoanhThuBanHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.FrmInHoaDonBanHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInPhieuMuaHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLapPhieuMuaHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLapPhieuNhapHang.resources
+C:\Users\kieuminhtan\Desktop\Do An Tot Nghiep\QuanLyBanHang\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInPhieuNhapHang.resources
+C:\Users\Win 8.1 Version 2\Desktop\CNPM\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe.config
+C:\Users\Win 8.1 Version 2\Desktop\CNPM\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.exe
+C:\Users\Win 8.1 Version 2\Desktop\CNPM\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.pdb
+C:\Users\Win 8.1 Version 2\Desktop\CNPM\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\DHLT\CNPM\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe.config
+D:\DHLT\CNPM\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.exe
+D:\DHLT\CNPM\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.pdb
+D:\DHLT\CNPM\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csproj.AssemblyReference.cache
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDanhMucHoaDonBanHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDoanhThuBanHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.FrmInHoaDonBanHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmCapNhatGiaBan.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDangNhap.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmChinh.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInPhieuNhapHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInThongKeTonKho.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLapPhieuGiaoHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLapPhieuNhapHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmNguoiDung.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmNhaCungCap.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmKhachHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLoaiMatHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmMatHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmPhanQuyenNguoiDung.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachKhachHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachLoaiMatHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachMatHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachNhaCungCap.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmPhieuGiaoHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmLapPhieuMuaHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmNhanVien.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInDanhSachNhanVien.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmDoiMatKhau.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.Properties.Resources.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.UCTroGiup.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.frmInPhieuMuaHang.resources
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csproj.GenerateResource.cache
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.exe
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLNhaSach.pdb
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\RdlCompile.cache
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\RdlCompile.compiled
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe.config
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.exe
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\QLNhaSach.pdb
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\obj\x86\Debug\QLBanHang.csproj.CopyComplete
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\code\CNPM\cuoiki\CODE\CongNghePhanMem\GiaoDien\QLBanHang\bin\Debug\Microsoft.SqlServer.Types.dll

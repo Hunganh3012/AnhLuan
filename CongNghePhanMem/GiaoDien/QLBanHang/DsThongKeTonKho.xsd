@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsThongKeTonKho" targetNamespace="http://tempuri.org/DsThongKeTonKho.xsd" xmlns:mstns="http://tempuri.org/DsThongKeTonKho.xsd" xmlns="http://tempuri.org/DsThongKeTonKho.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLBanHangConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLBanHangConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLNhaSach.Properties.Settings.GlobalReference.Default.QLBanHangConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dsTonKhoTableAdapter" GeneratorDataComponentClassName="dsTonKhoTableAdapter" Name="dsTonKho" UserDataComponentName="dsTonKhoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLBanHangConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MATHANG.MAMATHANG, MATHANG.TENMATHANG, MATHANG.DONVITINH, NHACUNGCAP.TENNHACUNGCAP, LOAIMATHANG.TENLOAIMATHANG, MATHANG.SOLUONGTON
+FROM            MATHANG INNER JOIN
+                         NHACUNGCAP ON MATHANG.MANHACUNGCAP = NHACUNGCAP.MANHACUNGCAP INNER JOIN
+                         LOAIMATHANG ON MATHANG.MALOAIMATHANG = LOAIMATHANG.MALOAIMATHANG
+ORDER BY MATHANG.MAMATHANG</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAMATHANG" DataSetColumn="MAMATHANG" />
+              <Mapping SourceColumn="TENMATHANG" DataSetColumn="TENMATHANG" />
+              <Mapping SourceColumn="DONVITINH" DataSetColumn="DONVITINH" />
+              <Mapping SourceColumn="TENNHACUNGCAP" DataSetColumn="TENNHACUNGCAP" />
+              <Mapping SourceColumn="TENLOAIMATHANG" DataSetColumn="TENLOAIMATHANG" />
+              <Mapping SourceColumn="SOLUONGTON" DataSetColumn="SOLUONGTON" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsThongKeTonKho" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsThongKeTonKho" msprop:Generator_UserDSName="DsThongKeTonKho">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsTonKho" msprop:Generator_TableClassName="dsTonKhoDataTable" msprop:Generator_TableVarName="tabledsTonKho" msprop:Generator_TablePropName="dsTonKho" msprop:Generator_RowDeletingName="dsTonKhoRowDeleting" msprop:Generator_RowChangingName="dsTonKhoRowChanging" msprop:Generator_RowEvHandlerName="dsTonKhoRowChangeEventHandler" msprop:Generator_RowDeletedName="dsTonKhoRowDeleted" msprop:Generator_UserTableName="dsTonKho" msprop:Generator_RowChangedName="dsTonKhoRowChanged" msprop:Generator_RowEvArgName="dsTonKhoRowChangeEvent" msprop:Generator_RowClassName="dsTonKhoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAMATHANG" msprop:Generator_ColumnVarNameInTable="columnMAMATHANG" msprop:Generator_ColumnPropNameInRow="MAMATHANG" msprop:Generator_ColumnPropNameInTable="MAMATHANGColumn" msprop:Generator_UserColumnName="MAMATHANG">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENMATHANG" msprop:Generator_ColumnVarNameInTable="columnTENMATHANG" msprop:Generator_ColumnPropNameInRow="TENMATHANG" msprop:Generator_ColumnPropNameInTable="TENMATHANGColumn" msprop:Generator_UserColumnName="TENMATHANG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DONVITINH" msprop:Generator_ColumnVarNameInTable="columnDONVITINH" msprop:Generator_ColumnPropNameInRow="DONVITINH" msprop:Generator_ColumnPropNameInTable="DONVITINHColumn" msprop:Generator_UserColumnName="DONVITINH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENNHACUNGCAP" msprop:Generator_ColumnVarNameInTable="columnTENNHACUNGCAP" msprop:Generator_ColumnPropNameInRow="TENNHACUNGCAP" msprop:Generator_ColumnPropNameInTable="TENNHACUNGCAPColumn" msprop:Generator_UserColumnName="TENNHACUNGCAP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENLOAIMATHANG" msprop:Generator_ColumnVarNameInTable="columnTENLOAIMATHANG" msprop:Generator_ColumnPropNameInRow="TENLOAIMATHANG" msprop:Generator_ColumnPropNameInTable="TENLOAIMATHANGColumn" msprop:Generator_UserColumnName="TENLOAIMATHANG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SOLUONGTON" msprop:Generator_ColumnVarNameInTable="columnSOLUONGTON" msprop:Generator_ColumnPropNameInRow="SOLUONGTON" msprop:Generator_ColumnPropNameInTable="SOLUONGTONColumn" msprop:Generator_UserColumnName="SOLUONGTON" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsTonKho" />
+      <xs:field xpath="mstns:MAMATHANG" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
